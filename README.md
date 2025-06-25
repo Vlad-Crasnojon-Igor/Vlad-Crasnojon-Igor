@@ -24,6 +24,8 @@
 
 <br />
 
+<!--
+<details>
 <summary>
   👋 About Me
 
@@ -49,3 +51,4 @@ I enjoy transforming complex challenges into functional and elegant code.
 🤝 Let's Connect!
 I'm always open to learning, collaborating on interesting projects, and discussing new ideas. Feel free to explore my repositories to see my work or reach out to connect!
 </summary>
+-->
