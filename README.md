@@ -1,7 +1,9 @@
-## About me
+### 👋 About Me
 
+I'm Vlad Crasnojon, a passionate second-year Computer Science student at Universitatea Ovidius din Constanța. My academic journey is dedicated to gaining a robust understanding of software development principles and their practical application. My core programming expertise spans Java, Python, and SQL, and I possess a solid grasp of Object-Oriented Programming, Data Structures, Algorithms, and Database Management. I am continuously expanding my technical toolkit, with a particular interest in developing efficient and scalable solutions, focusing on backend development, database design and optimization, and general problem-solving. I thoroughly enjoy transforming complex challenges into functional and elegant code. I'm always open to learning, collaborating on interesting projects, and discussing new ideas; feel free to explore my repositories or reach out to connect!
 
-
+<br />
+<br />
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -15,7 +17,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br />
-
+<br />
 
 
 ### 📊 Stats
@@ -23,32 +25,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad-Crasnojon-Igor&show_icons=true&theme=gruvbox)
 
 <br />
-
-<!--
-<details>
-<summary>
-  👋 About Me
-
-I'm Vlad Crasnojon, a passionate second-year Computer Science student at Universitatea Ovidius din Constanța. My academic journey focuses on gaining a robust understanding of software development principles and practical application.
-💻 Skills
-
-My core programming expertise lies in:
-
-    Languages: Java, Python, SQL, C, C++
-    Concepts: Object-Oriented Programming, Data Structures, Algorithms, Database Management
-
-I'm continuously expanding my technical toolkit and exploring new technologies to enhance my development capabilities.
-🌱 Interests & Focus Areas
-
-I am particularly interested in developing efficient and scalable solutions. My current focus areas include:
-
-    Backend Development
-    Frontend Development
-    Database Design and Optimization
-    Problem Solving
-
-I enjoy transforming complex challenges into functional and elegant code.
-🤝 Let's Connect!
-I'm always open to learning, collaborating on interesting projects, and discussing new ideas. Feel free to explore my repositories to see my work or reach out to connect!
-</summary>
--->
